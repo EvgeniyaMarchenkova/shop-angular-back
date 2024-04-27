@@ -1,14 +1,13 @@
-# Welcome to your CDK TypeScript project
+What was done?
 
-This is a blank project for CDK development with TypeScript.
+Mandatory tasks are done. Additional tasks are absent.
 
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
+URL to deployed frontend app
+https://d2xcy51r0wvij1.cloudfront.net/
 
-## Useful commands
+Links to Product Service API
+https://ug46931jhl.execute-api.eu-central-1.amazonaws.com/prod/products
+https://ug46931jhl.execute-api.eu-central-1.amazonaws.com/prod/products/7567ec4b-b10c-45c5-9345-fc73c48a80a1
 
-* `npm run build`   compile typescript to js
-* `npm run watch`   watch for changes and compile
-* `npm run test`    perform the jest unit tests
-* `npx cdk deploy`  deploy this stack to your default AWS account/region
-* `npx cdk diff`    compare deployed stack with current state
-* `npx cdk synth`   emits the synthesized CloudFormation template
+Link to updates for front end app PR
+https://github.com/EvgeniyaMarchenkova/shop-angular/pull/2
